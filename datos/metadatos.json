@@ -1,0 +1,167 @@
+{
+  "titulo": "Anatomía de la siniestralidad laboral en España",
+  "fecha_revision": "2026-11-17",
+  "fecha_extraccion": "2026-11-16",
+  "periodo": [
+    2023,
+    2024,
+    2025
+  ],
+  "periodo_comparacion_principal": [
+    2024,
+    2025
+  ],
+  "ambito": "España. Accidentes de trabajo con baja en jornada.",
+  "clasificacion": "CNAE-2009",
+  "divisiones_por_anio": 87,
+  "secciones": 21,
+  "sectores": 4,
+  "tablas_originales": [
+    "D.13.2",
+    "D.14.2"
+  ],
+  "hojas_originales_utilizadas": 6,
+  "fuentes": {
+    "2023": {
+      "nombre": "ATR_2023_D.xlsx",
+      "url": "https://www.mites.gob.es/estadisticas/eat/eat23/TABLAS%20ESTADISTICAS/ATR_2023_D.xlsx",
+      "indice_url": "https://www.mites.gob.es/es/estadisticas/monograficas_anuales/EAT/2023/index.htm"
+    },
+    "2024": {
+      "nombre": "ATR_2024_D.xlsx",
+      "url": "https://www.mites.gob.es/estadisticas/eat/eat24/TABLAS%20ESTADISTICAS/ATR_2024_D.xlsx",
+      "indice_url": "https://www.mites.gob.es/es/estadisticas/monograficas_anuales/EAT/2024/index.htm"
+    },
+    "2025": {
+      "nombre": "ATR_2025_D.xlsx",
+      "url": "https://www.mites.gob.es/estadisticas/eat/eat25/TABLAS%20ESTADISTICAS/ATR_2025_D.xlsx",
+      "indice_url": "https://www.mites.gob.es/es/estadisticas/monograficas_anuales/EAT/2025/index.htm"
+    }
+  },
+  "totales_nacionales": {
+    "2023": 558936,
+    "2024": 556385,
+    "2025": 546473
+  },
+  "tablas_derivadas": [
+    {
+      "archivo": "perfiles_actividad_2023_2025.csv",
+      "titulo": "Perfiles de actividad",
+      "filas": 261,
+      "columnas": 28,
+      "unidad_fila": "Una división CNAE y un año.",
+      "clave": [
+        "anio_referencia",
+        "division_codigo"
+      ],
+      "campos": [
+        "anio_referencia",
+        "division_codigo",
+        "division_nombre",
+        "seccion_codigo",
+        "seccion_nombre",
+        "sector",
+        "total_accidentes",
+        "n_cabeza",
+        "n_cuello",
+        "n_espalda",
+        "n_tronco_organos",
+        "n_extremidades_superiores",
+        "n_extremidades_inferiores",
+        "n_todo_cuerpo_multiples",
+        "n_otras_partes",
+        "n_sin_informacion",
+        "n_enero",
+        "n_febrero",
+        "n_marzo",
+        "n_abril",
+        "n_mayo",
+        "n_junio",
+        "n_julio",
+        "n_agosto",
+        "n_septiembre",
+        "n_octubre",
+        "n_noviembre",
+        "n_diciembre"
+      ]
+    },
+    {
+      "archivo": "anatomia_actividad_2023_2025.csv",
+      "titulo": "Distribución anatómica",
+      "filas": 2349,
+      "columnas": 10,
+      "unidad_fila": "Una división, un año y una región corporal.",
+      "clave": [
+        "anio_referencia",
+        "division_codigo",
+        "parte_codigo"
+      ],
+      "campos": [
+        "anio_referencia",
+        "division_codigo",
+        "division_nombre",
+        "seccion_codigo",
+        "seccion_nombre",
+        "sector",
+        "parte_codigo",
+        "parte_nombre",
+        "recuento",
+        "total_accidentes"
+      ]
+    },
+    {
+      "archivo": "mes_actividad_2023_2025.csv",
+      "titulo": "Distribución mensual",
+      "filas": 3132,
+      "columnas": 10,
+      "unidad_fila": "Una división, un año y un mes.",
+      "clave": [
+        "anio_referencia",
+        "division_codigo",
+        "mes"
+      ],
+      "campos": [
+        "anio_referencia",
+        "division_codigo",
+        "division_nombre",
+        "seccion_codigo",
+        "seccion_nombre",
+        "sector",
+        "mes",
+        "mes_nombre",
+        "recuento",
+        "total_accidentes"
+      ]
+    },
+    {
+      "archivo": "trazabilidad_2023_2025.csv",
+      "titulo": "Origen de los valores",
+      "filas": 261,
+      "columnas": 8,
+      "unidad_fila": "Localización de un perfil en los Excel oficiales.",
+      "clave": [
+        "anio_referencia",
+        "division_codigo"
+      ],
+      "campos": [
+        "anio_referencia",
+        "division_codigo",
+        "archivo",
+        "url",
+        "hoja_anatomia",
+        "rango_anatomia",
+        "hoja_mes",
+        "rango_mes"
+      ]
+    }
+  ],
+  "notas": [
+    "Cada fila representa un agregado de accidentes; un perfil identifica una división y un año.",
+    "Anatomía y meses describen dos repartos del mismo total anual. El cruce entre región corporal y mes requiere una fuente conjunta.",
+    "Las tablas largas repiten total_accidentes. La agregación cuenta ese total una vez por perfil.",
+    "Desde 2024 la estadística incluye prácticas formativas no remuneradas. La comparación principal utiliza 2024–2025.",
+    "El año identifica la edición estadística, que puede incorporar bajas anteriores aceptadas tardíamente.",
+    "La trazabilidad pública conserva libro, URL oficial, hoja y rango de celdas.",
+    "Las nuevas tablas de antigüedad D.4.2 y D.4.3, el detalle anatómico por forma del accidente D.13.5 y la EPA forman parte del trabajo previsto; este catálogo ofrece la extracción anatómica y mensual disponible."
+  ]
+}

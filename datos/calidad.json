@@ -1,0 +1,17 @@
+{
+  "fecha_revision": "2026-11-17",
+  "perfiles": 261,
+  "claves_unicas": true,
+  "particiones_anatomicas_suman_total": true,
+  "particiones_mensuales_suman_total": true,
+  "totales_nacionales": {
+    "2023": 558936,
+    "2024": 556385,
+    "2025": 546473
+  },
+  "numeros_ausentes": 0,
+  "numeros_negativos": 0,
+  "celdas_recuento": 5742,
+  "celdas_cero": 237,
+  "evidencia": "Comprobación de los cuatro CSV de este catálogo y de sus claves. La revisión del 16 de noviembre contrastó los recuentos con las celdas de los Excel originales."
+}

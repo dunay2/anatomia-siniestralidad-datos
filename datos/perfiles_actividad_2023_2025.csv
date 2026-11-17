@@ -1,0 +1,262 @@
+﻿anio_referencia,division_codigo,division_nombre,seccion_codigo,seccion_nombre,sector,total_accidentes,n_cabeza,n_cuello,n_espalda,n_tronco_organos,n_extremidades_superiores,n_extremidades_inferiores,n_todo_cuerpo_multiples,n_otras_partes,n_sin_informacion,n_enero,n_febrero,n_marzo,n_abril,n_mayo,n_junio,n_julio,n_agosto,n_septiembre,n_octubre,n_noviembre,n_diciembre
+2023,01,"Agricultura, ganadería, caza y servicios relacionados con las mismas",A,"Agricultura, ganadería, silvicultura y pesca",Agrario,24482,2086,399,2805,1403,8789,8216,688,83,13,2431,1981,2117,1895,2191,1999,1832,1904,1815,1970,2269,2078
+2023,02,Silvicultura y explotación forestal,A,"Agricultura, ganadería, silvicultura y pesca",Agrario,3159,314,74,359,205,867,1251,84,4,1,244,282,354,253,297,285,308,197,262,244,271,162
+2023,03,Pesca y acuicultura,A,"Agricultura, ganadería, silvicultura y pesca",Agrario,1640,90,22,189,177,685,428,41,7,1,136,121,152,143,161,141,142,147,125,142,117,113
+2023,05,"Extracción de antracita, hulla y lignito",B,Industrias extractivas,Industria,246,19,16,68,8,67,63,4,0,1,25,35,21,22,26,22,16,16,16,15,20,12
+2023,06,Extracción de crudo de petróleo y gas natural,B,Industrias extractivas,Industria,3,0,0,0,0,2,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0
+2023,07,Extracción de minerales metálicos,B,Industrias extractivas,Industria,116,8,7,15,4,50,28,4,0,0,7,12,9,8,12,17,12,4,8,11,12,4
+2023,08,Otras industrias extractivas,B,Industrias extractivas,Industria,1001,84,24,116,57,335,325,56,3,1,82,86,95,72,113,93,86,64,96,91,76,47
+2023,09,Actividades de apoyo a las industrias extractivas,B,Industrias extractivas,Industria,28,4,0,0,1,11,12,0,0,0,1,1,3,1,4,6,2,4,2,2,0,2
+2023,10,Industria de la alimentación,C,Industria manufacturera,Industria,22473,1191,550,2860,1080,10979,5167,555,83,8,2005,1854,1970,1536,2018,1864,1879,1914,1953,1961,2049,1470
+2023,11,Fabricación de bebidas,C,Industria manufacturera,Industria,1697,114,39,231,90,613,557,50,0,3,116,120,152,114,149,167,144,122,199,204,130,80
+2023,12,Industria del tabaco,C,Industria manufacturera,Industria,34,2,0,3,3,11,14,1,0,0,3,4,5,3,1,6,1,0,5,3,1,2
+2023,13,Industria textil,C,Industria manufacturera,Industria,1566,58,31,181,78,785,394,35,3,1,121,148,186,123,156,133,157,66,140,138,134,64
+2023,14,Confección de prendas de vestir,C,Industria manufacturera,Industria,601,32,20,73,25,293,146,11,0,1,46,48,47,45,53,53,50,39,62,60,62,36
+2023,15,Industria del cuero y del calzado,C,Industria manufacturera,Industria,844,35,16,97,43,462,168,22,0,1,82,79,90,53,81,89,77,37,73,68,78,37
+2023,16,"Industria de la madera y del corcho, excepto muebles; cestería y espartería",C,Industria manufacturera,Industria,3890,214,58,429,151,2089,882,58,5,4,323,309,346,296,393,400,341,208,378,363,323,210
+2023,17,Industria del papel,C,Industria manufacturera,Industria,1840,80,35,222,79,877,509,29,5,4,185,165,179,139,166,146,150,127,151,161,176,95
+2023,18,Artes gráficas y reproducción de soportes grabados,C,Industria manufacturera,Industria,1783,73,46,197,63,934,421,42,3,4,150,161,169,139,146,162,147,119,165,158,173,94
+2023,19,Coquerías y refino de petróleo,C,Industria manufacturera,Industria,60,4,1,4,6,18,27,0,0,0,5,8,8,6,6,3,5,3,4,7,2,3
+2023,20,Industria química,C,Industria manufacturera,Industria,3060,245,70,407,160,1260,822,90,5,1,255,267,279,207,313,287,272,189,252,279,311,149
+2023,21,Fabricación de productos farmacéuticos,C,Industria manufacturera,Industria,1101,105,33,161,47,433,282,35,3,2,87,109,95,69,96,101,100,42,106,109,133,54
+2023,22,Fabricación de productos de caucho y plásticos,C,Industria manufacturera,Industria,4693,267,84,622,208,2355,1050,92,10,5,393,419,444,305,425,444,450,275,466,398,418,256
+2023,23,Fabricación de otros productos minerales no metálicos,C,Industria manufacturera,Industria,6035,382,112,818,293,2647,1663,110,7,3,474,510,606,448,578,583,551,381,498,544,561,301
+2023,24,"Metalurgia; fabricación de productos de hierro, acero y ferroaleaciones",C,Industria manufacturera,Industria,5010,501,97,601,220,2267,1224,83,10,7,411,461,482,368,490,468,415,269,495,453,436,262
+2023,25,"Fabricación de productos metálicos, excepto maquinaria y equipo",C,Industria manufacturera,Industria,19239,2100,320,2307,792,9132,4210,343,27,8,1586,1610,1849,1327,1911,1843,1731,1090,1761,1762,1763,1006
+2023,26,"Fabricación de productos informáticos, electrónicos y ópticos",C,Industria manufacturera,Industria,370,32,11,44,17,179,75,10,2,0,26,36,41,20,41,41,35,14,33,31,30,22
+2023,27,Fabricación de material y equipo eléctrico,C,Industria manufacturera,Industria,1473,100,22,190,61,750,315,30,4,1,126,143,136,104,178,127,129,84,136,123,124,63
+2023,28,Fabricación de maquinaria y equipo n.c.o.p.,C,Industria manufacturera,Industria,5364,485,103,604,209,2715,1144,88,11,5,454,495,507,354,537,507,490,313,475,487,475,270
+2023,29,"Fabricación de vehículos de motor, remolques y semirremolques",C,Industria manufacturera,Industria,4470,343,112,555,224,2211,920,97,3,5,395,421,398,318,452,443,330,225,418,401,465,204
+2023,30,Fabricación de otro material de transporte,C,Industria manufacturera,Industria,2223,238,46,274,95,941,568,58,3,0,193,219,215,171,216,192,167,116,183,214,221,116
+2023,31,Fabricación de muebles,C,Industria manufacturera,Industria,3011,182,41,416,137,1509,660,58,4,4,259,247,293,211,287,307,298,156,253,289,253,158
+2023,32,Otras industrias manufactureras,C,Industria manufacturera,Industria,789,42,23,104,40,392,164,24,0,0,73,64,70,52,73,77,73,45,83,67,70,42
+2023,33,Reparación e instalación de maquinaria y equipo,C,Industria manufacturera,Industria,6414,739,142,735,314,2704,1597,172,6,5,516,538,585,429,604,628,527,469,585,571,582,380
+2023,35,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Industria,376,18,10,42,15,150,122,19,0,0,32,26,43,32,28,36,29,39,31,30,33,17
+2023,36,"Captación, depuración y distribución de agua",E,"Suministro de agua, saneamiento, gestión de residuos",Industria,1311,77,33,208,64,461,401,64,3,0,101,109,133,119,131,106,103,83,109,113,124,80
+2023,37,Recogida y tratamiento de aguas residuales,E,"Suministro de agua, saneamiento, gestión de residuos",Industria,359,23,9,63,18,122,109,12,2,1,32,28,33,24,36,29,38,18,27,37,35,22
+2023,38,"Recogida, tratamiento y eliminación de residuos; valorización",E,"Suministro de agua, saneamiento, gestión de residuos",Industria,7575,531,261,924,419,2688,2432,309,8,3,624,535,574,492,702,688,719,678,663,683,700,517
+2023,39,Actividades de descontaminación y otros servicios de gestión de residuos,E,"Suministro de agua, saneamiento, gestión de residuos",Industria,167,9,4,34,9,51,49,8,1,2,11,14,20,13,11,9,16,14,17,16,15,11
+2023,41,Construcción de edificios,F,Construcción,Construcción,34785,3093,605,4836,2180,12135,10677,1169,70,20,2827,2784,3371,2455,3345,3352,3036,2615,3020,3004,3024,1952
+2023,42,Ingeniería civil,F,Construcción,Construcción,4259,364,91,602,243,1413,1397,144,5,0,347,365,414,304,381,374,355,337,406,362,390,224
+2023,43,Actividades de construcción especializada,F,Construcción,Construcción,47865,4364,1160,6224,2582,18040,13739,1625,87,44,3939,3906,4439,3504,4509,4517,4227,3636,4194,4109,4123,2762
+2023,45,Venta y reparación de vehículos de motor y motocicletas,G,Comercio al por mayor y menor; reparación vehículos,Servicios,11271,1076,383,1377,471,4988,2612,337,22,5,1001,886,1009,766,1057,1066,946,882,956,1016,989,697
+2023,46,"Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas",G,Comercio al por mayor y menor; reparación vehículos,Servicios,27203,1447,1045,4095,1355,10012,8310,868,46,25,2425,2225,2412,1918,2525,2443,2343,2087,2186,2300,2466,1873
+2023,47,"Comercio al por menor, excepto de vehículos de motor y motocicletas",G,Comercio al por mayor y menor; reparación vehículos,Servicios,34658,1232,1152,5122,1308,14552,10057,1166,42,27,2899,2602,2919,2477,2978,2939,3072,3002,3117,2992,3046,2615
+2023,49,Transporte terrestre y por tubería,H,Transporte y almacenamiento,Servicios,23806,1342,2189,3152,1347,6196,7738,1768,53,21,2024,1855,2093,1722,2077,2125,2029,1753,2016,2200,2087,1825
+2023,50,Transporte marítimo y por vías navegables interiores,H,Transporte y almacenamiento,Servicios,600,30,13,93,44,182,219,17,2,0,26,26,56,38,42,59,84,65,67,46,55,36
+2023,51,Transporte aéreo,H,Transporte y almacenamiento,Servicios,1360,332,68,140,51,298,319,71,77,4,111,103,104,101,118,105,131,140,139,108,94,106
+2023,52,Almacenamiento y actividades anexas al transporte,H,Transporte y almacenamiento,Servicios,8819,442,406,1519,399,2900,2822,317,11,3,725,644,774,609,778,748,731,760,786,847,828,589
+2023,53,Actividades postales y de correos,H,Transporte y almacenamiento,Servicios,6470,209,374,685,258,1366,2539,885,114,40,622,557,504,423,605,596,547,442,450,548,592,584
+2023,55,Servicios de alojamiento,I,Hostelería,Servicios,16404,700,303,2069,550,7133,4835,768,22,24,750,809,969,1264,1537,1747,2282,2300,1732,1422,876,716
+2023,56,Servicios de comidas y bebidas,I,Hostelería,Servicios,38813,1299,898,3271,1258,18707,11095,2196,61,28,2959,2590,2979,3138,3529,3542,3863,3614,3326,3369,3059,2845
+2023,58,Edición,J,Información y comunicaciones,Servicios,148,11,13,13,3,51,50,6,1,0,12,11,11,9,12,15,15,10,16,14,15,8
+2023,59,"Actividades cinematográficas, de vídeo y de programas de televisión, grabación de sonido y edición musical",J,Información y comunicaciones,Servicios,601,32,26,67,23,157,273,23,0,0,51,43,49,45,56,64,45,34,48,70,56,40
+2023,60,Actividades de programación y emisión de radio y televisión,J,Información y comunicaciones,Servicios,159,11,19,22,8,30,55,14,0,0,9,15,21,14,20,7,9,6,15,15,15,13
+2023,61,Telecomunicaciones,J,Información y comunicaciones,Servicios,1209,56,76,193,58,370,405,44,5,2,93,112,107,67,93,117,99,105,118,120,96,82
+2023,62,"Programación, consultoría y otras actividades relacionadas con la informática",J,Información y comunicaciones,Servicios,568,30,46,67,27,166,192,35,5,0,47,33,53,46,58,55,50,38,40,51,60,37
+2023,63,Servicios de información,J,Información y comunicaciones,Servicios,191,7,10,19,12,62,65,15,1,0,13,28,17,16,22,22,13,13,12,11,16,8
+2023,64,"Servicios financieros, excepto seguros y fondos de pensiones",K,Actividades financieras y de seguros,Servicios,324,20,21,18,13,94,124,32,1,1,30,19,36,22,31,28,35,11,30,27,31,24
+2023,65,"Seguros, reaseguros y fondos de pensiones, excepto Seguridad Social obligatoria",K,Actividades financieras y de seguros,Servicios,102,5,11,8,2,27,39,10,0,0,6,9,11,10,13,6,6,5,9,12,10,5
+2023,66,Actividades auxiliares a los servicios financieros y a los seguros,K,Actividades financieras y de seguros,Servicios,291,10,41,33,13,65,98,28,3,0,21,25,35,20,24,20,19,22,27,32,27,19
+2023,68,Actividades inmobiliarias,L,Actividades inmobiliarias,Servicios,949,40,67,88,45,293,344,68,3,1,93,77,98,69,87,79,90,59,85,72,72,68
+2023,69,Actividades jurídicas y de contabilidad,M,"Actividades profesionales, científicas y técnicas",Servicios,517,23,35,54,23,132,211,39,0,0,36,39,45,35,47,48,41,37,44,52,57,36
+2023,70,Actividades de las sedes centrales; actividades de consultoría de gestión empresarial,M,"Actividades profesionales, científicas y técnicas",Servicios,478,27,31,58,14,161,162,25,0,0,47,42,49,34,47,40,38,33,44,32,43,29
+2023,71,Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos,M,"Actividades profesionales, científicas y técnicas",Servicios,2462,160,133,335,109,819,783,115,7,1,181,187,235,189,221,237,206,184,217,254,207,144
+2023,72,Investigación y desarrollo,M,"Actividades profesionales, científicas y técnicas",Servicios,425,40,18,50,14,169,113,21,0,0,34,37,51,32,35,29,41,31,40,45,30,20
+2023,73,Publicidad y estudios de mercado,M,"Actividades profesionales, científicas y técnicas",Servicios,657,28,42,93,27,196,233,36,0,2,58,44,58,52,58,58,52,48,67,64,61,37
+2023,74,"Otras actividades profesionales, científicas y técnicas",M,"Actividades profesionales, científicas y técnicas",Servicios,1502,84,69,212,69,485,496,83,2,2,103,119,114,110,129,140,153,132,146,120,135,101
+2023,75,Actividades veterinarias,M,"Actividades profesionales, científicas y técnicas",Servicios,434,23,11,27,10,273,77,13,0,0,37,38,40,32,38,38,36,33,40,40,40,22
+2023,77,Actividades de alquiler,N,Actividades administrativas y servicios auxiliares,Servicios,2585,177,123,331,139,882,812,112,4,5,178,199,187,184,246,252,262,227,242,236,216,156
+2023,78,Actividades relacionadas con el empleo,N,Actividades administrativas y servicios auxiliares,Servicios,18100,1181,589,2317,624,7834,4932,608,14,1,1446,1318,1511,1224,1543,1610,1826,1582,1543,1548,1707,1242
+2023,79,"Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos",N,Actividades administrativas y servicios auxiliares,Servicios,278,12,12,27,21,64,123,17,2,0,18,20,24,21,22,30,36,28,25,23,22,9
+2023,80,Actividades de seguridad e investigación,N,Actividades administrativas y servicios auxiliares,Servicios,4324,247,226,363,219,1150,1555,550,8,6,357,366,398,334,381,409,346,320,362,357,384,310
+2023,81,Servicios a edificios y actividades de jardinería,N,Actividades administrativas y servicios auxiliares,Servicios,25203,1572,746,3299,1366,8490,8318,1340,52,20,2148,2106,2329,1791,2270,2326,2023,2038,2199,2192,2214,1567
+2023,82,Actividades administrativas de oficina y otras actividades auxiliares a las empresas,N,Actividades administrativas y servicios auxiliares,Servicios,6807,283,305,1058,285,2279,2211,377,7,2,624,560,561,473,628,633,533,556,600,605,568,466
+2023,84,Administración Pública y defensa; Seguridad Social obligatoria,O,Administración Pública y defensa; Seguridad Social obligatoria,Servicios,25064,1256,1033,3090,1256,7934,8766,1617,72,40,1975,2172,2558,2024,2456,2364,1985,1827,2118,2124,2102,1359
+2023,85,Educación,P,Educación,Servicios,7421,405,373,710,326,2095,3049,422,26,15,696,733,821,555,768,654,390,197,629,749,773,456
+2023,86,Actividades sanitarias,Q,Actividades sanitarias y de servicios sociales,Servicios,19183,665,841,2895,727,5494,4583,3905,49,24,1897,1683,1900,1643,1966,1787,1463,1241,1316,1519,1513,1255
+2023,87,Asistencia en establecimientos residenciales,Q,Actividades sanitarias y de servicios sociales,Servicios,15335,474,755,3182,632,5659,3626,943,32,32,1396,1236,1305,1209,1344,1322,1284,1274,1272,1283,1243,1167
+2023,88,Actividades de servicios sociales sin alojamiento,Q,Actividades sanitarias y de servicios sociales,Servicios,10885,329,712,2265,583,3156,3105,717,15,3,961,850,940,770,953,916,935,911,872,999,1029,749
+2023,90,"Actividades de creación, artísticas y espectáculos",R,"Actividades artísticas, recreativas y de entretenimiento",Servicios,1229,67,27,124,49,399,523,38,2,0,81,82,95,74,113,128,131,103,130,121,98,73
+2023,91,"Actividades de bibliotecas, archivos, museos y otras actividades culturales",R,"Actividades artísticas, recreativas y de entretenimiento",Servicios,377,27,12,53,19,126,125,12,3,0,34,34,31,26,32,29,39,32,31,39,23,27
+2023,92,Actividades de juegos de azar y apuestas,R,"Actividades artísticas, recreativas y de entretenimiento",Servicios,451,19,15,62,18,133,159,44,1,0,34,35,33,40,47,45,41,30,46,36,35,29
+2023,93,"Actividades deportivas, recreativas y de entretenimiento",R,"Actividades artísticas, recreativas y de entretenimiento",Servicios,8052,306,132,622,306,1807,4671,184,13,11,727,697,791,655,609,513,633,718,769,746,694,500
+2023,94,Actividades asociativas,S,Otros servicios,Servicios,1330,63,61,172,72,418,474,60,6,4,135,117,114,93,116,109,134,75,108,130,118,81
+2023,95,"Reparación de ordenadores, efectos personales y artículos de uso doméstico",S,Otros servicios,Servicios,1078,65,54,148,50,441,286,31,2,1,95,88,124,63,99,100,100,97,95,80,77,60
+2023,96,Otros servicios personales,S,Otros servicios,Servicios,3732,148,164,497,170,1517,1077,146,12,1,307,298,304,271,315,329,371,326,340,322,296,253
+2023,97,Actividades de los hogares como empleadores de personal doméstico,T,Actividades de hogares como empleadores de personal doméstico,Servicios,1651,54,33,221,79,579,604,74,2,5,144,107,157,133,149,151,128,122,136,153,150,121
+2023,99,Actividades de organizaciones y organismos extraterritoriales,U,Actividades de organizaciones y organismos extraterritoriales,Servicios,18,1,1,0,0,5,11,0,0,0,1,1,0,1,3,3,1,1,2,2,1,2
+2024,01,"Agricultura, ganadería, caza y servicios relacionados con las mismas",A,"Agricultura, ganadería, silvicultura y pesca",Agrario,24375,1921,357,2424,1437,8820,8575,747,68,26,2234,2092,1933,2142,2237,1918,1948,1768,1844,1948,2109,2202
+2024,02,Silvicultura y explotación forestal,A,"Agricultura, ganadería, silvicultura y pesca",Agrario,3108,318,85,302,236,861,1210,88,6,2,251,332,244,313,252,270,299,235,231,246,267,168
+2024,03,Pesca y acuicultura,A,"Agricultura, ganadería, silvicultura y pesca",Agrario,1531,92,29,186,137,638,411,32,4,2,116,130,126,147,162,129,145,131,117,125,93,110
+2024,05,"Extracción de antracita, hulla y lignito",B,Industrias extractivas,Industria,266,18,16,87,7,71,63,4,0,0,15,19,42,15,16,34,10,13,46,15,27,14
+2024,06,Extracción de crudo de petróleo y gas natural,B,Industrias extractivas,Industria,2,0,0,0,0,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+2024,07,Extracción de minerales metálicos,B,Industrias extractivas,Industria,90,7,5,17,6,23,29,3,0,0,6,9,14,8,6,6,6,9,7,7,6,6
+2024,08,Otras industrias extractivas,B,Industrias extractivas,Industria,887,98,16,94,51,318,272,36,2,0,81,79,79,93,80,72,81,60,74,74,73,41
+2024,09,Actividades de apoyo a las industrias extractivas,B,Industrias extractivas,Industria,14,2,0,3,1,5,3,0,0,0,4,0,1,0,1,0,2,1,0,4,1,0
+2024,10,Industria de la alimentación,C,Industria manufacturera,Industria,22650,1161,534,2629,980,11250,5339,674,71,12,1967,1895,1701,1879,1957,1757,1986,1854,1923,2183,1989,1559
+2024,11,Fabricación de bebidas,C,Industria manufacturera,Industria,1652,131,40,210,82,597,542,43,4,3,118,147,94,131,142,122,158,135,190,196,141,78
+2024,12,Industria del tabaco,C,Industria manufacturera,Industria,44,6,0,2,1,24,9,2,0,0,6,4,2,2,2,6,6,1,3,6,5,1
+2024,13,Industria textil,C,Industria manufacturera,Industria,1671,89,42,192,88,841,378,40,1,0,146,154,116,140,161,171,154,60,179,158,146,86
+2024,14,Confección de prendas de vestir,C,Industria manufacturera,Industria,570,26,26,76,16,268,138,19,1,0,43,63,46,56,46,54,43,32,45,66,40,36
+2024,15,Industria del cuero y del calzado,C,Industria manufacturera,Industria,744,31,12,88,41,393,167,10,1,1,78,80,57,67,78,64,68,25,61,61,61,44
+2024,16,"Industria de la madera y del corcho, excepto muebles; cestería y espartería",C,Industria manufacturera,Industria,3794,257,59,371,168,2034,829,66,9,1,344,351,290,353,352,355,342,201,315,349,317,225
+2024,17,Industria del papel,C,Industria manufacturera,Industria,1857,82,31,202,78,905,511,45,1,2,170,174,141,164,187,161,149,108,183,149,161,110
+2024,18,Artes gráficas y reproducción de soportes grabados,C,Industria manufacturera,Industria,1703,84,37,191,72,875,406,38,0,0,157,144,120,164,145,144,152,102,140,179,152,104
+2024,19,Coquerías y refino de petróleo,C,Industria manufacturera,Industria,49,3,1,8,0,15,21,1,0,0,1,3,2,7,4,1,3,8,3,7,4,6
+2024,20,Industria química,C,Industria manufacturera,Industria,3160,264,79,419,144,1279,853,108,10,4,288,312,238,274,309,256,322,172,282,294,248,165
+2024,21,Fabricación de productos farmacéuticos,C,Industria manufacturera,Industria,1059,103,42,135,48,411,274,45,1,0,99,82,82,105,92,87,94,46,100,114,101,57
+2024,22,Fabricación de productos de caucho y plásticos,C,Industria manufacturera,Industria,4545,270,72,579,228,2242,1037,103,12,2,412,415,326,369,475,405,426,227,438,436,390,226
+2024,23,Fabricación de otros productos minerales no metálicos,C,Industria manufacturera,Industria,5993,443,110,711,289,2543,1732,150,13,2,552,523,482,491,509,547,589,339,491,596,543,331
+2024,24,"Metalurgia; fabricación de productos de hierro, acero y ferroaleaciones",C,Industria manufacturera,Industria,5020,477,75,567,208,2337,1258,85,12,1,424,429,409,412,519,438,479,230,466,524,419,271
+2024,25,"Fabricación de productos metálicos, excepto maquinaria y equipo",C,Industria manufacturera,Industria,19290,2201,304,2060,773,9272,4298,341,20,21,1667,1728,1518,1663,1834,1664,1901,1050,1699,1915,1651,1000
+2024,26,"Fabricación de productos informáticos, electrónicos y ópticos",C,Industria manufacturera,Industria,405,26,11,50,15,205,85,10,3,0,33,47,19,36,34,31,43,24,51,47,23,17
+2024,27,Fabricación de material y equipo eléctrico,C,Industria manufacturera,Industria,1556,110,26,185,56,812,332,29,2,4,135,157,124,161,119,135,171,80,150,125,120,79
+2024,28,Fabricación de maquinaria y equipo n.c.o.p.,C,Industria manufacturera,Industria,5673,498,110,641,233,2836,1233,101,14,7,477,519,423,503,533,495,561,312,530,548,469,303
+2024,29,"Fabricación de vehículos de motor, remolques y semirremolques",C,Industria manufacturera,Industria,4608,357,96,497,231,2274,1065,81,5,2,461,457,351,411,473,396,326,210,428,487,416,192
+2024,30,Fabricación de otro material de transporte,C,Industria manufacturera,Industria,2368,266,47,251,111,1028,601,59,4,1,212,206,169,233,221,181,236,136,210,219,235,110
+2024,31,Fabricación de muebles,C,Industria manufacturera,Industria,3127,147,49,413,135,1666,668,41,2,6,267,296,241,304,309,272,285,131,269,328,265,160
+2024,32,Otras industrias manufactureras,C,Industria manufacturera,Industria,742,53,20,72,33,395,145,21,3,0,58,67,52,67,64,65,72,31,77,65,71,53
+2024,33,Reparación e instalación de maquinaria y equipo,C,Industria manufacturera,Industria,6567,777,158,704,296,2826,1595,192,12,7,547,587,514,569,588,540,606,483,531,652,552,398
+2024,35,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Industria,340,8,10,46,23,120,116,17,0,0,27,22,27,29,35,32,22,28,29,36,27,26
+2024,36,"Captación, depuración y distribución de agua",E,"Suministro de agua, saneamiento, gestión de residuos",Industria,1285,99,28,167,89,454,383,59,5,1,106,119,92,114,122,102,125,92,119,101,113,80
+2024,37,Recogida y tratamiento de aguas residuales,E,"Suministro de agua, saneamiento, gestión de residuos",Industria,382,28,17,49,30,135,114,9,0,0,31,32,28,38,31,28,36,36,39,39,24,20
+2024,38,"Recogida, tratamiento y eliminación de residuos; valorización",E,"Suministro de agua, saneamiento, gestión de residuos",Industria,7541,509,253,867,434,2610,2562,294,9,3,661,592,597,630,651,585,727,648,625,689,597,539
+2024,39,Actividades de descontaminación y otros servicios de gestión de residuos,E,"Suministro de agua, saneamiento, gestión de residuos",Industria,163,9,4,31,9,61,41,8,0,0,14,19,4,19,9,9,20,14,15,17,15,8
+2024,41,Construcción de edificios,F,Construcción,Construcción,33178,3051,528,4174,2032,11979,10139,1177,64,34,2943,2829,2440,2941,3044,2908,3199,2284,2874,3035,2736,1945
+2024,42,Ingeniería civil,F,Construcción,Construcción,4107,363,101,541,237,1380,1328,146,10,1,352,365,289,353,359,342,361,331,364,391,360,240
+2024,43,Actividades de construcción especializada,F,Construcción,Construcción,47194,4307,1152,5737,2517,18156,13523,1673,85,44,4041,4076,3711,4129,4229,3976,4434,3279,4077,4504,3897,2841
+2024,45,Venta y reparación de vehículos de motor y motocicletas,G,Comercio al por mayor y menor; reparación vehículos,Servicios,11479,1116,356,1377,498,5196,2566,339,20,11,1034,1039,848,1040,1000,939,1076,830,957,1088,931,697
+2024,46,"Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas",G,Comercio al por mayor y menor; reparación vehículos,Servicios,27537,1475,1068,3969,1325,10040,8624,964,51,21,2433,2355,2106,2388,2532,2232,2478,2021,2240,2509,2401,1842
+2024,47,"Comercio al por menor, excepto de vehículos de motor y motocicletas",G,Comercio al por mayor y menor; reparación vehículos,Servicios,34861,1303,1055,4772,1258,14850,10311,1241,45,26,2985,2801,2686,2838,2985,2813,3244,2975,2881,3073,2977,2603
+2024,49,Transporte terrestre y por tubería,H,Transporte y almacenamiento,Servicios,24295,1370,2245,3127,1332,6301,7921,1896,77,26,2068,2024,1971,2091,2112,1993,2169,1794,2080,2286,1910,1797
+2024,50,Transporte marítimo y por vías navegables interiores,H,Transporte y almacenamiento,Servicios,555,31,6,71,38,175,205,26,2,1,38,31,34,46,34,33,76,85,46,50,41,41
+2024,51,Transporte aéreo,H,Transporte y almacenamiento,Servicios,953,269,45,72,29,200,207,76,54,1,99,93,107,98,102,69,70,50,66,78,62,59
+2024,52,Almacenamiento y actividades anexas al transporte,H,Transporte y almacenamiento,Servicios,10038,523,437,1658,448,3265,3276,409,17,5,748,735,692,753,842,866,975,876,952,1003,844,752
+2024,53,Actividades postales y de correos,H,Transporte y almacenamiento,Servicios,6675,206,429,673,277,1458,2626,939,63,4,590,543,536,571,539,517,631,467,573,624,516,568
+2024,55,Servicios de alojamiento,I,Hostelería,Servicios,17301,856,284,1877,592,7607,5110,916,24,35,803,945,1139,1401,1717,1880,2156,2385,1717,1490,883,785
+2024,56,Servicios de comidas y bebidas,I,Hostelería,Servicios,37864,1378,781,2988,1179,18740,10591,2110,66,31,2778,2854,2979,3080,3240,3439,3726,3595,3249,3384,2847,2693
+2024,58,Edición,J,Información y comunicaciones,Servicios,129,4,5,5,6,54,44,10,0,1,10,13,9,7,7,5,14,12,14,17,10,11
+2024,59,"Actividades cinematográficas, de vídeo y de programas de televisión, grabación de sonido y edición musical",J,Información y comunicaciones,Servicios,663,37,26,76,26,163,299,35,0,1,51,50,48,55,54,66,67,38,55,64,70,45
+2024,60,Actividades de programación y emisión de radio y televisión,J,Información y comunicaciones,Servicios,125,8,12,14,3,26,53,9,0,0,10,15,11,8,12,9,12,6,12,9,7,14
+2024,61,Telecomunicaciones,J,Información y comunicaciones,Servicios,1286,69,80,172,60,429,415,59,1,1,124,118,118,121,111,100,126,94,94,102,112,66
+2024,62,"Programación, consultoría y otras actividades relacionadas con la informática",J,Información y comunicaciones,Servicios,627,45,51,65,31,182,221,31,1,0,54,54,39,69,44,51,58,34,53,71,58,42
+2024,63,Servicios de información,J,Información y comunicaciones,Servicios,197,10,16,26,5,63,62,15,0,0,18,15,16,7,17,20,26,16,18,19,16,9
+2024,64,"Servicios financieros, excepto seguros y fondos de pensiones",K,Actividades financieras y de seguros,Servicios,335,15,25,25,13,96,115,44,2,0,35,33,20,30,29,19,27,21,39,32,30,20
+2024,65,"Seguros, reaseguros y fondos de pensiones, excepto Seguridad Social obligatoria",K,Actividades financieras y de seguros,Servicios,122,1,11,9,4,23,49,25,0,0,11,12,5,9,17,6,6,4,4,16,19,13
+2024,66,Actividades auxiliares a los servicios financieros y a los seguros,K,Actividades financieras y de seguros,Servicios,267,9,32,24,8,72,102,20,0,0,32,21,17,27,26,21,26,12,12,31,21,21
+2024,68,Actividades inmobiliarias,L,Actividades inmobiliarias,Servicios,1089,65,63,97,49,329,401,84,1,0,102,91,89,86,89,101,103,81,93,100,77,77
+2024,69,Actividades jurídicas y de contabilidad,M,"Actividades profesionales, científicas y técnicas",Servicios,586,17,45,51,23,175,234,39,1,1,48,54,38,47,57,59,48,32,46,51,64,42
+2024,70,Actividades de las sedes centrales; actividades de consultoría de gestión empresarial,M,"Actividades profesionales, científicas y técnicas",Servicios,476,23,26,48,21,153,168,37,0,0,40,39,50,44,39,46,30,30,43,47,40,28
+2024,71,Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos,M,"Actividades profesionales, científicas y técnicas",Servicios,2438,131,140,320,90,811,819,122,3,2,192,202,200,199,239,205,232,159,213,237,216,144
+2024,72,Investigación y desarrollo,M,"Actividades profesionales, científicas y técnicas",Servicios,466,29,20,48,26,188,139,13,2,1,41,43,27,39,37,50,49,24,32,59,40,25
+2024,73,Publicidad y estudios de mercado,M,"Actividades profesionales, científicas y técnicas",Servicios,664,34,43,76,25,223,222,40,0,1,63,58,59,52,60,59,57,40,58,65,55,38
+2024,74,"Otras actividades profesionales, científicas y técnicas",M,"Actividades profesionales, científicas y técnicas",Servicios,1242,81,75,112,41,392,463,74,2,2,126,128,77,114,123,100,112,81,90,120,93,78
+2024,75,Actividades veterinarias,M,"Actividades profesionales, científicas y técnicas",Servicios,503,27,6,38,11,287,110,22,0,2,51,44,34,46,41,45,36,43,38,52,47,26
+2024,77,Actividades de alquiler,N,Actividades administrativas y servicios auxiliares,Servicios,2753,192,115,297,145,992,852,150,5,5,205,235,173,230,253,257,282,228,262,254,193,181
+2024,78,Actividades relacionadas con el empleo,N,Actividades administrativas y servicios auxiliares,Servicios,18710,1241,556,2138,644,8185,5290,640,15,1,1430,1298,1314,1442,1571,1651,1946,1569,1626,1759,1658,1446
+2024,79,"Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos",N,Actividades administrativas y servicios auxiliares,Servicios,288,16,17,22,10,84,124,15,0,0,16,17,20,33,23,27,33,21,32,24,18,24
+2024,80,Actividades de seguridad e investigación,N,Actividades administrativas y servicios auxiliares,Servicios,4303,276,210,351,188,1163,1537,568,6,4,341,348,334,371,403,344,394,364,391,340,342,331
+2024,81,Servicios a edificios y actividades de jardinería,N,Actividades administrativas y servicios auxiliares,Servicios,25719,1690,784,3203,1377,8523,8659,1416,49,18,2312,2178,1894,2177,2259,2107,2246,2067,2255,2452,2057,1715
+2024,82,Actividades administrativas de oficina y otras actividades auxiliares a las empresas,N,Actividades administrativas y servicios auxiliares,Servicios,6492,323,302,877,286,2182,2129,387,6,0,527,531,489,554,546,563,585,550,547,585,567,448
+2024,84,Administración Pública y defensa; Seguridad Social obligatoria,O,Administración Pública y defensa; Seguridad Social obligatoria,Servicios,23233,1222,998,2665,1192,7422,8117,1517,63,37,1895,2043,1819,2092,2157,2034,2009,1791,1981,2139,1906,1367
+2024,85,Educación,P,Educación,Servicios,7771,387,419,694,320,2183,3274,457,25,12,692,727,632,835,840,654,441,172,649,925,752,452
+2024,86,Actividades sanitarias,Q,Actividades sanitarias y de servicios sociales,Servicios,15804,664,787,2678,714,5337,4573,964,59,28,1454,1375,1342,1382,1420,1228,1351,1211,1187,1501,1276,1077
+2024,87,Asistencia en establecimientos residenciales,Q,Actividades sanitarias y de servicios sociales,Servicios,15580,524,799,2984,736,5870,3750,854,43,20,1299,1252,1229,1252,1315,1214,1327,1411,1258,1376,1374,1273
+2024,88,Actividades de servicios sociales sin alojamiento,Q,Actividades sanitarias y de servicios sociales,Servicios,11593,383,738,2259,505,3338,3506,830,24,10,1042,994,891,941,964,894,1003,914,1004,1145,974,827
+2024,90,"Actividades de creación, artísticas y espectáculos",R,"Actividades artísticas, recreativas y de entretenimiento",Servicios,1213,64,28,123,44,379,521,53,1,0,86,91,91,86,99,117,137,90,119,112,91,94
+2024,91,"Actividades de bibliotecas, archivos, museos y otras actividades culturales",R,"Actividades artísticas, recreativas y de entretenimiento",Servicios,395,23,12,53,16,119,157,15,0,0,33,29,25,28,31,32,36,33,41,42,37,28
+2024,92,Actividades de juegos de azar y apuestas,R,"Actividades artísticas, recreativas y de entretenimiento",Servicios,419,14,16,44,20,146,131,47,1,0,43,36,25,35,41,35,38,23,45,36,29,33
+2024,93,"Actividades deportivas, recreativas y de entretenimiento",R,"Actividades artísticas, recreativas y de entretenimiento",Servicios,8173,331,142,546,316,1842,4763,216,12,5,672,735,725,686,636,488,619,760,809,822,705,516
+2024,94,Actividades asociativas,S,Otros servicios,Servicios,1314,64,63,164,54,435,454,75,2,3,109,120,106,110,113,114,115,84,110,122,116,95
+2024,95,"Reparación de ordenadores, efectos personales y artículos de uso doméstico",S,Otros servicios,Servicios,1064,66,53,139,49,441,273,40,1,2,93,95,91,89,92,100,96,75,81,101,83,68
+2024,96,Otros servicios personales,S,Otros servicios,Servicios,3694,150,128,450,186,1498,1116,156,6,4,318,286,265,330,340,326,360,349,314,336,257,213
+2024,97,Actividades de los hogares como empleadores de personal doméstico,T,Actividades de hogares como empleadores de personal doméstico,Servicios,1777,64,23,212,76,637,658,99,6,2,167,157,132,163,174,151,151,136,159,130,132,125
+2024,99,Actividades de organizaciones y organismos extraterritoriales,U,Actividades de organizaciones y organismos extraterritoriales,Servicios,7,1,0,0,0,2,3,1,0,0,2,0,0,2,0,2,0,0,0,0,1,0
+2025,01,"Agricultura, ganadería, caza y servicios relacionados con las mismas",A,"Agricultura, ganadería, silvicultura y pesca",Agrario,23196,2009,320,2100,1327,8721,7860,799,49,11,2140,2004,1838,1911,2146,2000,1850,1564,1848,2114,1999,1782
+2025,02,Silvicultura y explotación forestal,A,"Agricultura, ganadería, silvicultura y pesca",Agrario,2903,290,73,275,203,819,1152,88,1,2,235,292,252,253,256,242,254,215,262,287,233,122
+2025,03,Pesca y acuicultura,A,"Agricultura, ganadería, silvicultura y pesca",Agrario,1356,68,17,137,128,578,395,28,3,2,111,107,115,139,127,111,131,106,101,136,84,88
+2025,05,"Extracción de antracita, hulla y lignito",B,Industrias extractivas,Industria,220,17,15,63,4,69,42,10,0,0,17,23,22,12,11,28,12,21,18,19,20,17
+2025,06,Extracción de crudo de petróleo y gas natural,B,Industrias extractivas,Industria,4,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0
+2025,07,Extracción de minerales metálicos,B,Industrias extractivas,Industria,116,5,10,23,8,38,30,2,0,0,12,7,10,8,8,13,4,7,11,15,9,12
+2025,08,Otras industrias extractivas,B,Industrias extractivas,Industria,862,83,17,78,46,356,253,29,0,0,85,60,73,48,83,83,99,54,71,94,74,38
+2025,09,Actividades de apoyo a las industrias extractivas,B,Industrias extractivas,Industria,11,1,1,1,0,3,2,2,0,1,3,1,1,1,0,0,0,2,1,1,1,0
+2025,10,Industria de la alimentación,C,Industria manufacturera,Industria,23051,1297,451,2361,1043,11495,5540,736,110,18,2025,1879,1961,1608,1981,2029,2018,1732,1968,2141,2002,1707
+2025,11,Fabricación de bebidas,C,Industria manufacturera,Industria,1654,158,33,177,87,655,492,48,1,3,126,126,120,110,125,123,146,125,237,183,124,109
+2025,12,Industria del tabaco,C,Industria manufacturera,Industria,51,3,3,5,3,26,9,2,0,0,1,2,11,4,3,7,4,2,5,4,3,5
+2025,13,Industria textil,C,Industria manufacturera,Industria,1651,86,39,152,81,847,388,52,6,0,153,141,134,109,143,153,166,68,182,153,156,93
+2025,14,Confección de prendas de vestir,C,Industria manufacturera,Industria,494,24,21,59,20,219,127,24,0,0,38,43,34,36,43,45,54,26,49,45,45,36
+2025,15,Industria del cuero y del calzado,C,Industria manufacturera,Industria,676,35,13,72,34,370,133,17,2,0,77,55,70,48,51,79,68,28,51,44,52,53
+2025,16,"Industria de la madera y del corcho, excepto muebles; cestería y espartería",C,Industria manufacturera,Industria,3873,252,41,367,154,2108,866,75,8,2,326,347,344,292,340,377,317,214,355,378,320,263
+2025,17,Industria del papel,C,Industria manufacturera,Industria,1865,104,33,176,63,937,506,41,2,3,144,153,174,122,153,195,169,111,155,207,173,109
+2025,18,Artes gráficas y reproducción de soportes grabados,C,Industria manufacturera,Industria,1735,93,46,179,60,895,414,40,6,2,147,130,166,121,157,153,171,80,158,178,142,132
+2025,19,Coquerías y refino de petróleo,C,Industria manufacturera,Industria,45,2,2,4,4,15,18,0,0,0,6,1,4,5,3,2,3,2,4,7,4,4
+2025,20,Industria química,C,Industria manufacturera,Industria,3191,297,86,389,142,1273,876,114,11,3,258,283,267,227,317,309,284,173,305,294,282,192
+2025,21,Fabricación de productos farmacéuticos,C,Industria manufacturera,Industria,1089,107,34,134,55,430,280,44,3,2,97,95,100,86,92,86,102,38,108,116,111,58
+2025,22,Fabricación de productos de caucho y plásticos,C,Industria manufacturera,Industria,4578,297,74,507,204,2392,982,104,15,3,396,391,436,315,389,464,473,257,387,414,401,255
+2025,23,Fabricación de otros productos minerales no metálicos,C,Industria manufacturera,Industria,5856,483,95,639,269,2550,1645,159,12,4,476,546,498,409,498,565,586,305,557,566,507,343
+2025,24,"Metalurgia; fabricación de productos de hierro, acero y ferroaleaciones",C,Industria manufacturera,Industria,4858,510,70,528,206,2211,1221,89,10,13,388,416,445,343,460,501,449,188,443,498,446,281
+2025,25,"Fabricación de productos metálicos, excepto maquinaria y equipo",C,Industria manufacturera,Industria,19403,2259,333,1882,780,9386,4329,384,31,19,1509,1703,1720,1510,1733,1807,1880,967,1730,1977,1712,1155
+2025,26,"Fabricación de productos informáticos, electrónicos y ópticos",C,Industria manufacturera,Industria,412,23,8,53,22,200,98,7,1,0,33,44,47,28,33,31,42,14,28,49,36,27
+2025,27,Fabricación de material y equipo eléctrico,C,Industria manufacturera,Industria,1450,84,13,149,52,803,311,35,3,0,96,133,141,111,115,148,149,60,147,136,145,69
+2025,28,Fabricación de maquinaria y equipo n.c.o.p.,C,Industria manufacturera,Industria,5674,545,116,565,205,2866,1237,107,20,13,460,493,542,395,517,526,535,285,544,552,516,309
+2025,29,"Fabricación de vehículos de motor, remolques y semirremolques",C,Industria manufacturera,Industria,4215,356,90,418,191,2102,954,102,2,0,331,396,349,269,399,430,374,178,457,409,418,205
+2025,30,Fabricación de otro material de transporte,C,Industria manufacturera,Industria,2355,289,54,209,104,1025,619,52,2,1,189,220,220,162,209,190,222,128,214,236,217,148
+2025,31,Fabricación de muebles,C,Industria manufacturera,Industria,3148,182,56,373,145,1674,664,50,2,2,275,267,277,231,294,302,295,121,291,321,289,185
+2025,32,Otras industrias manufactureras,C,Industria manufacturera,Industria,810,53,20,92,27,403,184,28,0,3,68,65,75,48,69,56,78,44,70,92,82,63
+2025,33,Reparación e instalación de maquinaria y equipo,C,Industria manufacturera,Industria,6558,784,145,626,289,2822,1712,161,15,4,494,584,579,502,609,595,592,495,565,609,536,398
+2025,35,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",D,"Suministro de energía eléctrica, gas, vapor y aire acondicionado",Industria,335,26,11,34,18,120,111,15,0,0,30,24,31,23,28,36,27,36,32,24,18,26
+2025,36,"Captación, depuración y distribución de agua",E,"Suministro de agua, saneamiento, gestión de residuos",Industria,1317,78,50,154,83,441,442,62,4,3,112,102,116,89,114,116,119,96,125,140,105,83
+2025,37,Recogida y tratamiento de aguas residuales,E,"Suministro de agua, saneamiento, gestión de residuos",Industria,366,34,7,45,26,123,117,13,1,0,23,23,24,27,43,44,42,27,39,30,30,14
+2025,38,"Recogida, tratamiento y eliminación de residuos; valorización",E,"Suministro de agua, saneamiento, gestión de residuos",Industria,7221,503,213,749,434,2615,2350,340,10,7,632,565,608,569,588,652,666,603,620,682,575,461
+2025,39,Actividades de descontaminación y otros servicios de gestión de residuos,E,"Suministro de agua, saneamiento, gestión de residuos",Industria,139,9,2,15,7,51,49,3,3,0,16,18,12,3,7,15,5,16,13,12,11,11
+2025,41,Construcción de edificios,F,Construcción,Construcción,32554,3123,473,3595,1910,12006,10054,1314,56,23,2591,2738,2722,2458,2919,3074,3017,2245,2995,3019,2730,2046
+2025,42,Ingeniería civil,F,Construcción,Construcción,4034,323,78,456,233,1379,1383,174,6,2,320,349,306,300,368,378,373,280,376,392,337,255
+2025,43,Actividades de construcción especializada,F,Construcción,Construcción,45978,4310,1059,4967,2378,17998,13322,1798,105,41,3659,3946,4049,3328,4204,4208,4438,3108,4065,4349,3894,2730
+2025,45,Venta y reparación de vehículos de motor y motocicletas,G,Comercio al por mayor y menor; reparación vehículos,Servicios,11119,1135,380,1190,480,5109,2431,362,26,6,939,935,938,787,962,1019,1060,765,1023,1041,943,707
+2025,46,"Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas",G,Comercio al por mayor y menor; reparación vehículos,Servicios,27014,1467,977,3543,1271,9959,8670,1057,48,22,2354,2130,2374,2084,2415,2347,2461,1857,2321,2501,2291,1879
+2025,47,"Comercio al por menor, excepto de vehículos de motor y motocicletas",G,Comercio al por mayor y menor; reparación vehículos,Servicios,33947,1423,958,4179,1158,14707,10085,1368,51,18,2886,2628,2806,2563,2811,2949,3162,2775,2915,2985,2755,2712
+2025,49,Transporte terrestre y por tubería,H,Transporte y almacenamiento,Servicios,24053,1420,2253,2905,1342,6221,7796,1976,97,43,2022,1907,2091,1821,2089,2128,2209,1676,2129,2125,2031,1825
+2025,50,Transporte marítimo y por vías navegables interiores,H,Transporte y almacenamiento,Servicios,560,32,13,48,40,176,226,22,2,1,39,29,39,47,41,56,71,62,57,39,31,49
+2025,51,Transporte aéreo,H,Transporte y almacenamiento,Servicios,814,293,39,74,14,159,151,33,51,0,69,58,57,67,87,67,82,59,77,64,64,63
+2025,52,Almacenamiento y actividades anexas al transporte,H,Transporte y almacenamiento,Servicios,9954,547,428,1438,424,3319,3349,430,15,4,729,775,818,749,911,873,941,785,915,921,804,733
+2025,53,Actividades postales y de correos,H,Transporte y almacenamiento,Servicios,7241,246,391,692,244,1574,2862,1190,36,6,601,533,601,498,577,550,636,557,627,645,729,687
+2025,55,Servicios de alojamiento,I,Hostelería,Servicios,17260,843,323,1805,565,7564,5174,930,22,34,900,834,1008,1362,1610,1868,2213,2387,1827,1552,931,768
+2025,56,Servicios de comidas y bebidas,I,Hostelería,Servicios,35301,1322,653,2545,994,18053,9781,1860,56,37,2650,2485,2843,2835,3081,3207,3375,3288,3029,3109,2746,2653
+2025,58,Edición,J,Información y comunicaciones,Servicios,118,8,10,9,3,47,32,9,0,0,8,6,9,7,11,15,10,8,15,12,11,6
+2025,59,"Actividades cinematográficas, de vídeo y de programas de televisión, grabación de sonido y edición musical",J,Información y comunicaciones,Servicios,639,46,37,80,23,179,252,22,0,0,44,36,56,37,57,75,53,39,77,71,53,41
+2025,60,Actividades de programación y emisión de radio y televisión,J,Información y comunicaciones,Servicios,117,2,12,13,7,32,44,5,2,0,8,9,16,10,9,10,10,5,10,8,13,9
+2025,61,Telecomunicaciones,J,Información y comunicaciones,Servicios,1237,58,63,182,44,424,378,87,1,0,88,97,100,87,111,119,119,85,124,124,113,70
+2025,62,"Programación, consultoría y otras actividades relacionadas con la informática",J,Información y comunicaciones,Servicios,550,27,42,54,22,173,192,40,0,0,45,48,57,39,56,46,44,28,52,60,38,37
+2025,63,Servicios de información,J,Información y comunicaciones,Servicios,188,9,11,20,7,58,76,7,0,0,14,14,16,12,21,15,19,12,16,15,20,14
+2025,64,"Servicios financieros, excepto seguros y fondos de pensiones",K,Actividades financieras y de seguros,Servicios,355,30,20,26,12,90,125,52,0,0,23,26,27,29,33,36,38,12,41,38,26,26
+2025,65,"Seguros, reaseguros y fondos de pensiones, excepto Seguridad Social obligatoria",K,Actividades financieras y de seguros,Servicios,77,3,8,3,4,16,35,7,1,0,11,4,3,7,14,7,3,1,11,7,6,3
+2025,66,Actividades auxiliares a los servicios financieros y a los seguros,K,Actividades financieras y de seguros,Servicios,243,9,28,24,10,62,81,27,2,0,24,24,23,18,17,20,19,11,19,27,18,23
+2025,68,Actividades inmobiliarias,L,Actividades inmobiliarias,Servicios,995,65,53,96,43,285,387,63,2,1,72,90,86,71,82,91,99,67,93,96,79,69
+2025,69,Actividades jurídicas y de contabilidad,M,"Actividades profesionales, científicas y técnicas",Servicios,547,27,38,48,22,160,212,40,0,0,47,49,61,45,41,53,53,19,53,45,47,34
+2025,70,Actividades de las sedes centrales; actividades de consultoría de gestión empresarial,M,"Actividades profesionales, científicas y técnicas",Servicios,442,27,26,43,15,157,138,36,0,0,30,40,32,35,42,40,37,38,37,37,43,31
+2025,71,Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos,M,"Actividades profesionales, científicas y técnicas",Servicios,2539,192,132,264,109,872,836,124,8,2,191,203,206,216,229,226,248,182,249,234,211,144
+2025,72,Investigación y desarrollo,M,"Actividades profesionales, científicas y técnicas",Servicios,440,38,11,42,18,173,132,21,4,1,33,31,39,32,46,35,40,23,35,55,46,25
+2025,73,Publicidad y estudios de mercado,M,"Actividades profesionales, científicas y técnicas",Servicios,566,33,47,63,18,185,194,26,0,0,44,51,61,44,55,52,46,24,48,64,42,35
+2025,74,"Otras actividades profesionales, científicas y técnicas",M,"Actividades profesionales, científicas y técnicas",Servicios,1168,68,70,101,42,367,436,78,3,3,88,79,102,104,103,129,102,68,127,103,86,77
+2025,75,Actividades veterinarias,M,"Actividades profesionales, científicas y técnicas",Servicios,522,26,12,25,13,338,88,18,2,0,44,51,47,45,46,48,46,43,38,39,46,29
+2025,77,Actividades de alquiler,N,Actividades administrativas y servicios auxiliares,Servicios,2752,213,119,304,131,981,860,137,6,1,181,196,207,203,235,299,298,236,279,248,214,156
+2025,78,Actividades relacionadas con el empleo,N,Actividades administrativas y servicios auxiliares,Servicios,19347,1331,530,1974,617,8565,5603,704,23,0,1463,1421,1477,1267,1674,1771,2018,1552,1805,1768,1634,1497
+2025,79,"Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos",N,Actividades administrativas y servicios auxiliares,Servicios,232,14,6,11,6,55,122,18,0,0,17,14,15,14,27,25,19,17,24,23,15,22
+2025,80,Actividades de seguridad e investigación,N,Actividades administrativas y servicios auxiliares,Servicios,4535,295,215,322,210,1227,1631,612,18,5,415,368,365,374,396,420,414,335,351,399,345,353
+2025,81,Servicios a edificios y actividades de jardinería,N,Actividades administrativas y servicios auxiliares,Servicios,25453,1767,675,2879,1314,8816,8351,1587,43,21,2168,2142,2205,1902,2260,2286,2213,1870,2277,2358,2078,1694
+2025,82,Actividades administrativas de oficina y otras actividades auxiliares a las empresas,N,Actividades administrativas y servicios auxiliares,Servicios,6566,357,267,836,278,2138,2217,460,11,2,521,521,586,487,541,603,627,527,589,569,522,473
+2025,84,Administración Pública y defensa; Seguridad Social obligatoria,O,Administración Pública y defensa; Seguridad Social obligatoria,Servicios,22139,1311,864,2203,1131,7095,7864,1520,113,38,1791,1751,1864,1698,1937,1982,1907,1708,2029,2216,1892,1364
+2025,85,Educación,P,Educación,Servicios,7828,421,382,675,281,2287,3258,482,29,13,702,763,811,673,857,670,351,161,669,890,782,499
+2025,86,Actividades sanitarias,Q,Actividades sanitarias y de servicios sociales,Servicios,15366,616,752,2571,668,5140,4477,1043,82,17,1376,1314,1299,1231,1337,1300,1301,1167,1240,1368,1295,1138
+2025,87,Asistencia en establecimientos residenciales,Q,Actividades sanitarias y de servicios sociales,Servicios,15748,537,723,2941,704,5922,3883,986,37,15,1274,1266,1355,1150,1319,1300,1347,1375,1370,1392,1323,1277
+2025,88,Actividades de servicios sociales sin alojamiento,Q,Actividades sanitarias y de servicios sociales,Servicios,11450,351,703,2062,463,3475,3444,929,17,6,970,920,1011,894,975,944,1030,852,988,1050,969,847
+2025,90,"Actividades de creación, artísticas y espectáculos",R,"Actividades artísticas, recreativas y de entretenimiento",Servicios,1258,56,33,112,55,370,588,43,1,0,70,69,109,85,120,128,112,109,127,137,102,90
+2025,91,"Actividades de bibliotecas, archivos, museos y otras actividades culturales",R,"Actividades artísticas, recreativas y de entretenimiento",Servicios,401,21,11,55,20,132,144,18,0,0,39,26,30,27,28,39,52,40,26,38,38,18
+2025,92,Actividades de juegos de azar y apuestas,R,"Actividades artísticas, recreativas y de entretenimiento",Servicios,447,20,30,29,16,139,154,57,1,1,36,29,40,35,35,36,49,25,35,38,41,48
+2025,93,"Actividades deportivas, recreativas y de entretenimiento",R,"Actividades artísticas, recreativas y de entretenimiento",Servicios,7957,345,148,534,243,1753,4655,247,26,6,662,700,796,631,621,521,622,710,716,745,720,513
+2025,94,Actividades asociativas,S,Otros servicios,Servicios,1372,90,90,162,67,424,454,77,5,3,123,123,121,105,116,128,105,80,125,127,122,97
+2025,95,"Reparación de ordenadores, efectos personales y artículos de uso doméstico",S,Otros servicios,Servicios,1070,73,57,130,47,413,306,42,1,1,89,83,97,70,96,108,95,72,98,122,76,64
+2025,96,Otros servicios personales,S,Otros servicios,Servicios,3506,180,157,354,161,1426,1046,174,6,2,279,259,312,271,295,317,349,272,328,340,245,239
+2025,97,Actividades de los hogares como empleadores de personal doméstico,T,Actividades de hogares como empleadores de personal doméstico,Servicios,1714,75,28,156,68,636,660,82,7,2,165,142,134,138,142,161,148,123,146,168,129,118
+2025,99,Actividades de organizaciones y organismos extraterritoriales,U,Actividades de organizaciones y organismos extraterritoriales,Servicios,22,1,1,0,1,6,12,1,0,0,1,0,4,2,5,2,2,0,1,3,2,0

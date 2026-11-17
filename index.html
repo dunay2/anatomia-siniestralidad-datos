@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Tablas, diccionario y fuentes del proyecto Anatomía de la siniestralidad laboral en España. Datos agregados del MITES, 2023–2025.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <title>Datos de siniestralidad laboral · España 2023–2025</title>
+  <link rel="stylesheet" href="estilos.css">
+  <script src="datos.js" defer></script>
+  <script src="catalogo.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#contenido">Ir al contenido</a>
+<header>
+  <div class="wrap topbar"><a class="brand" href="#">Anatomía laboral <span>/ Datos</span></a><nav aria-label="Navegación principal"><a href="#tablas">Tablas</a><a href="#consulta">Consulta</a><a href="#fuentes">Fuentes</a></nav></div>
+  <div class="wrap hero">
+    <p class="eyebrow">Catálogo de datos · España · 2023–2025</p>
+    <h1>Anatomía de la<br>siniestralidad laboral</h1>
+    <p class="intro">Un conjunto de datos para explorar cómo varía la distribución de los accidentes de trabajo entre actividades económicas y regiones del cuerpo.</p>
+    <p class="source">Fuente: Estadística de Accidentes de Trabajo del MITES. Accidentes con baja en jornada.</p>
+    <a class="primary" href="#tablas">Consultar las tablas <span aria-hidden="true">↓</span></a>
+  </div>
+</header>
+<main id="contenido" class="wrap">
+  <dl class="stats"><div><dt>Divisiones CNAE</dt><dd>87</dd></div><div><dt>Filas de actividad y año</dt><dd>261</dd></div><div><dt>Columnas del archivo principal</dt><dd>28</dd></div><div><dt>Tablas descargables</dt><dd>4</dd></div></dl>
+  <section id="tablas" aria-labelledby="tablas-titulo">
+    <div class="section-head"><div><p class="eyebrow">01 / Archivos disponibles</p><h2 id="tablas-titulo">Tablas para descargar y comprobar</h2></div><p>CSV en UTF-8, con coma como separador y una primera fila de nombres de campo.</p></div>
+    <div class="table-scroll"><table class="downloads"><caption class="sr-only">Inventario de las cuatro tablas derivadas</caption><thead><tr><th scope="col">Tabla y unidad de cada fila</th><th scope="col">Filas</th><th scope="col"><abbr title="Columnas">Cols.</abbr></th><th scope="col">Descarga</th></tr></thead><tbody>
+      <tr><th scope="row">Perfiles de actividad<span>Una división y un año. Total, nueve regiones corporales y doce meses.</span></th><td>261</td><td>28</td><td><a class="download" href="datos/perfiles_actividad_2023_2025.csv" download>CSV <span class="sr-only">de perfiles de actividad</span>↓</a></td></tr>
+      <tr><th scope="row">Distribución anatómica<span>Una división, un año y una región corporal.</span></th><td>2.349</td><td>10</td><td><a class="download" href="datos/anatomia_actividad_2023_2025.csv" download>CSV <span class="sr-only">de distribución anatómica</span>↓</a></td></tr>
+      <tr><th scope="row">Distribución mensual<span>Una división, un año y un mes de ocurrencia.</span></th><td>3.132</td><td>10</td><td><a class="download" href="datos/mes_actividad_2023_2025.csv" download>CSV <span class="sr-only">de distribución mensual</span>↓</a></td></tr>
+      <tr><th scope="row">Origen de los valores<span>Libro, enlace oficial, hojas y celdas de cada perfil.</span></th><td>261</td><td>8</td><td><a class="download" href="datos/trazabilidad_2023_2025.csv" download>CSV <span class="sr-only">de trazabilidad</span>↓</a></td></tr>
+    </tbody></table></div>
+    <p class="under-table">Las tres tablas analíticas describen los mismos 261 perfiles. Los formatos largos desglosan cada perfil en nueve regiones o doce meses. La comparación principal de 2024–2025 utiliza 174 perfiles.</p>
+    <div class="resource-links"><a href="datos/metadatos.json">Metadatos JSON</a><a href="datos/diccionario.json">Diccionario JSON</a><a href="datos/calidad.json">Controles de calidad JSON</a></div>
+    <details id="diccionario"><summary>Consultar el diccionario de campos</summary><div class="table-scroll"><table><thead><tr><th scope="col">Campo</th><th scope="col">Tipo</th><th scope="col">Significado</th></tr></thead><tbody id="campos"></tbody></table></div><noscript><p>El <a href="datos/diccionario.json">diccionario descargable</a> contiene todos los campos.</p></noscript></details>
+  </section>
+  <section id="consulta" aria-labelledby="consulta-titulo">
+    <div class="section-head"><div><p class="eyebrow">02 / Vista previa</p><h2 id="consulta-titulo">Localizar una actividad</h2></div><p>El total corresponde a accidentes registrados en la edición anual seleccionada.</p></div>
+    <div class="filters"><label>Año<select id="anio"><option value="2025">2025</option><option value="2024">2024</option><option value="2023">2023</option></select></label><label class="search">Actividad o código CNAE<input id="busqueda" type="search" placeholder="Por ejemplo: construcción o 41" autocomplete="off"></label><button id="limpiar" type="button">Limpiar búsqueda</button></div>
+    <p class="filter-status" id="resultados" role="status" aria-live="polite"></p>
+    <div class="table-scroll preview"><table><caption class="sr-only">Totales anuales por división económica</caption><thead><tr><th scope="col">Código</th><th scope="col">Actividad</th><th scope="col">Sector</th><th class="number" scope="col">Accidentes</th></tr></thead><tbody id="perfiles"></tbody></table></div>
+    <noscript><p>La búsqueda necesita JavaScript. Las descargas de CSV y las fuentes funcionan directamente.</p></noscript>
+  </section>
+  <section class="reading" aria-labelledby="lectura-titulo">
+    <p class="eyebrow">03 / Alcance</p><h2 id="lectura-titulo">Claves para interpretar los datos</h2>
+    <div class="reading-grid"><div><h3>Un registro representa un agregado</h3><p>La tabla principal contiene una fila por división y año. Cada recuento corresponde a accidentes. Las tablas largas repiten el total anual en cada región o mes; la suma de totales debe contar cada perfil una sola vez.</p></div><div><h3>Dos repartos del mismo total</h3><p>Las tablas D.13.2 y D.14.2 ofrecen, respectivamente, la distribución anatómica y la mensual. El análisis de una región corporal en un mes concreto requiere una fuente que publique ambas dimensiones conjuntamente.</p></div><div><h3>Comparabilidad entre ediciones</h3><p>Desde 2024, la estadística incluye accidentes de prácticas formativas no remuneradas. La comparación principal utiliza 2024 y 2025. El año de referencia también puede incorporar bajas anteriores aceptadas tardíamente.</p></div><div><h3>Importación y agregación</h3><p>El código CNAE debe conservar el formato de texto de dos dígitos. Los cálculos suman primero los recuentos de las divisiones y después obtienen los porcentajes. Las categorías residuales forman parte del denominador.</p></div></div>
+    <div class="checks"><h3>Comprobaciones de la extracción</h3><p>Las 261 claves son únicas. Las nueve regiones y los doce meses suman el total de cada perfil. Los campos de recuento contienen 5.742 valores, incluidos 237 ceros, y carecen de valores ausentes o negativos.</p><p class="totals">Totales nacionales <strong>2023 · 558.936</strong><strong>2024 · 556.385</strong><strong>2025 · 546.473</strong></p></div>
+  </section>
+  <section id="fuentes" aria-labelledby="fuentes-titulo">
+    <p class="eyebrow">04 / Procedencia</p><h2 id="fuentes-titulo">Volver a las tablas originales</h2>
+    <p>La extracción utiliza las hojas D.13.2 y D.14.2 de tres libros oficiales del MITES: seis tablas originales. Cada hoja contiene 87 divisiones y 26 filas de agregación para comprobar secciones, sectores y el total nacional.</p>
+    <div class="sources"><a href="https://www.mites.gob.es/estadisticas/eat/eat23/TABLAS%20ESTADISTICAS/ATR_2023_D.xlsx"><span>2023</span>Excel original del MITES ↗</a><a href="https://www.mites.gob.es/estadisticas/eat/eat24/TABLAS%20ESTADISTICAS/ATR_2024_D.xlsx"><span>2024</span>Excel original del MITES ↗</a><a href="https://www.mites.gob.es/estadisticas/eat/eat25/TABLAS%20ESTADISTICAS/ATR_2025_D.xlsx"><span>2025</span>Excel original del MITES ↗</a></div>
+    <p><a href="https://www.mites.gob.es/estadisticas/eat/eat25/FuentesyNotas.pdf">Fuentes y notas explicativas del MITES, edición 2025</a> · <a href="https://www.mites.gob.es/estadisticas/eat/Informe_Metodologico_Estadarizado_ATR.pdf">Informe metodológico</a></p>
+    <h3>Cómo citar este conjunto</h3><p class="citation">Ministerio de Trabajo y Economía Social. Estadística de Accidentes de Trabajo, resultados definitivos de 2023, 2024 y 2025, tablas D.13.2 y D.14.2. Preparación de las tablas derivadas: proyecto Anatomía de la siniestralidad laboral en España. Extracción del 16 de noviembre de 2026.</p>
+    <h3>Ampliación prevista</h3><p>El siguiente análisis incorporará la antigüedad en el puesto mediante D.4.2 y D.4.3, y la composición del empleo por sexo mediante la <a href="https://www.ine.es/jaxiT3/Tabla.htm?t=65985">tabla 65985 de la EPA</a>. El detalle anatómico nacional utilizará D.13.5 para explorar las formas o contactos de accidente de cada región corporal. La publicación de esas tablas requiere completar su extracción, comprobar categorías y documentar las uniones.</p>
+  </section>
+</main>
+<footer><div class="wrap"><p>Proyecto de visualización de datos · Anatomía de la siniestralidad laboral en España</p><p>Revisión del catálogo: 17 de noviembre de 2026</p></div></footer>
+</body>
+</html>

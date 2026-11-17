@@ -1,0 +1,158 @@
+{
+  "anio_referencia": {
+    "tipo": "Temporal",
+    "significado": "Edición anual de la estadística: 2023, 2024 o 2025."
+  },
+  "division_codigo": {
+    "tipo": "Texto nominal",
+    "significado": "Código CNAE-2009 de dos dígitos; conservar los ceros iniciales."
+  },
+  "division_nombre": {
+    "tipo": "Texto nominal",
+    "significado": "Nombre de la división de actividad económica."
+  },
+  "seccion_codigo": {
+    "tipo": "Texto jerárquico",
+    "significado": "Código de sección CNAE-2009, de A a U."
+  },
+  "seccion_nombre": {
+    "tipo": "Texto jerárquico",
+    "significado": "Nombre de la sección de actividad económica."
+  },
+  "sector": {
+    "tipo": "Texto jerárquico",
+    "significado": "Agrario, Industria, Construcción o Servicios."
+  },
+  "total_accidentes": {
+    "tipo": "Entero",
+    "significado": "Total anual de accidentes con baja en jornada de la división. La tabla larga repite este denominador en cada categoría."
+  },
+  "parte_codigo": {
+    "tipo": "Texto nominal",
+    "significado": "Identificador de una de las nueve regiones corporales."
+  },
+  "parte_nombre": {
+    "tipo": "Texto nominal",
+    "significado": "Nombre oficial de la región corporal."
+  },
+  "mes": {
+    "tipo": "Entero temporal",
+    "significado": "Mes de ocurrencia de 1 a 12."
+  },
+  "mes_nombre": {
+    "tipo": "Texto temporal",
+    "significado": "Nombre del mes de ocurrencia."
+  },
+  "recuento": {
+    "tipo": "Entero",
+    "significado": "Accidentes de la región corporal o del mes que identifica la fila."
+  },
+  "archivo": {
+    "tipo": "Texto de procedencia",
+    "significado": "Nombre del libro original del MITES."
+  },
+  "url": {
+    "tipo": "URL",
+    "significado": "Enlace de Internet al Excel original."
+  },
+  "hoja_anatomia": {
+    "tipo": "Texto de procedencia",
+    "significado": "Nombre de la hoja anatómica: ATR-D.13.2."
+  },
+  "rango_anatomia": {
+    "tipo": "Texto de procedencia",
+    "significado": "Celdas de la fila original que contiene el perfil anatómico."
+  },
+  "hoja_mes": {
+    "tipo": "Texto de procedencia",
+    "significado": "Nombre de la hoja mensual: ATR-D.14.2."
+  },
+  "rango_mes": {
+    "tipo": "Texto de procedencia",
+    "significado": "Celdas de la fila original que contiene el perfil mensual."
+  },
+  "n_cabeza": {
+    "tipo": "Entero",
+    "significado": "Accidentes de la categoría corporal «Cabeza»."
+  },
+  "n_cuello": {
+    "tipo": "Entero",
+    "significado": "Accidentes de la categoría corporal «Cuello, incluida la columna y vértebras cervicales»."
+  },
+  "n_espalda": {
+    "tipo": "Entero",
+    "significado": "Accidentes de la categoría corporal «Espalda, incluida la columna y vértebras dorsolumbares»."
+  },
+  "n_tronco_organos": {
+    "tipo": "Entero",
+    "significado": "Accidentes de la categoría corporal «Tronco y órganos»."
+  },
+  "n_extremidades_superiores": {
+    "tipo": "Entero",
+    "significado": "Accidentes de la categoría corporal «Extremidades superiores»."
+  },
+  "n_extremidades_inferiores": {
+    "tipo": "Entero",
+    "significado": "Accidentes de la categoría corporal «Extremidades inferiores»."
+  },
+  "n_todo_cuerpo_multiples": {
+    "tipo": "Entero",
+    "significado": "Accidentes de la categoría corporal «Todo el cuerpo y múltiples partes»."
+  },
+  "n_otras_partes": {
+    "tipo": "Entero",
+    "significado": "Accidentes de la categoría corporal «Otras partes del cuerpo»."
+  },
+  "n_sin_informacion": {
+    "tipo": "Entero",
+    "significado": "Accidentes de la categoría corporal «Sin información»."
+  },
+  "n_enero": {
+    "tipo": "Entero",
+    "significado": "Accidentes cuyo mes de ocurrencia es enero."
+  },
+  "n_febrero": {
+    "tipo": "Entero",
+    "significado": "Accidentes cuyo mes de ocurrencia es febrero."
+  },
+  "n_marzo": {
+    "tipo": "Entero",
+    "significado": "Accidentes cuyo mes de ocurrencia es marzo."
+  },
+  "n_abril": {
+    "tipo": "Entero",
+    "significado": "Accidentes cuyo mes de ocurrencia es abril."
+  },
+  "n_mayo": {
+    "tipo": "Entero",
+    "significado": "Accidentes cuyo mes de ocurrencia es mayo."
+  },
+  "n_junio": {
+    "tipo": "Entero",
+    "significado": "Accidentes cuyo mes de ocurrencia es junio."
+  },
+  "n_julio": {
+    "tipo": "Entero",
+    "significado": "Accidentes cuyo mes de ocurrencia es julio."
+  },
+  "n_agosto": {
+    "tipo": "Entero",
+    "significado": "Accidentes cuyo mes de ocurrencia es agosto."
+  },
+  "n_septiembre": {
+    "tipo": "Entero",
+    "significado": "Accidentes cuyo mes de ocurrencia es septiembre."
+  },
+  "n_octubre": {
+    "tipo": "Entero",
+    "significado": "Accidentes cuyo mes de ocurrencia es octubre."
+  },
+  "n_noviembre": {
+    "tipo": "Entero",
+    "significado": "Accidentes cuyo mes de ocurrencia es noviembre."
+  },
+  "n_diciembre": {
+    "tipo": "Entero",
+    "significado": "Accidentes cuyo mes de ocurrencia es diciembre."
+  }
+}
